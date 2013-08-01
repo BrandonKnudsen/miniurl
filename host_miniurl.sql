@@ -5,6 +5,7 @@
 -- miniurl
 -- version 1.0
 -- @derekbtw
+-- @mackncheeseyx
 -- https://github.com/derekbtw/miniurl
 -- july 31, 2013
 --
