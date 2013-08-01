@@ -2,7 +2,7 @@
 
 miniurl
 version 1.0
-@derekbtw
+@derekbtw @mackncheeseyx
 https://github.com/derekbtw/miniurl
 
 
