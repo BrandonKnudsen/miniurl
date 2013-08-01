@@ -61,7 +61,7 @@ $https = "https://";
 			
 			while(!exists($code = gen_code())){
 			
-			echo 'http://mstrnet.co/'.shorten($url, $code);
+			echo 'http://yourminidomain.com'.shorten($url, $code);
 			
 			break 1; 
 			}
